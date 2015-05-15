@@ -2,8 +2,10 @@ package edu.nau.dev.backend.structures;
 
 public class BasicRecord {
 	
-	private int id;
-	private String name;
-	private String telephoneNumber;
+	public int id;
+	public String name;
+	public String telephoneNumber;
+	
+	// TODO make some changes for encapsulation
 
 }
